@@ -45,7 +45,7 @@ public class PR20_CodingExercise extends Student {
 
     int marks1, marks2, marks3;
 
-    public PR19_CodingExercise(int r, String n, int m1, int m2, int m3) {
+    public PR20_CodingExercise(int r, String n, int m1, int m2, int m3) {
         super(r, n);
         marks1 = m1;
         marks2 = m2;
